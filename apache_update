@@ -1,1 +1,4 @@
-sudo date
+sudo yum remove httpd
+sudo yum -y install httpd
+sudo yum update httpd
+sudo systemctl restart httpd
