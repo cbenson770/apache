@@ -1,2 +1,1 @@
-sudo yum update httpd
-sudo systemctl restart httpd
+sudo date
