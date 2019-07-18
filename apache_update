@@ -1,2 +1,2 @@
-sudo yum remove httpd
+sudo yum -y remove httpd
 
